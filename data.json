@@ -1,0 +1,402 @@
+[
+  {
+    "ranking": 1,
+    "tools": "ChatGPT",
+    "website": "https://chatgpt.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "5.4B",
+    "desc": "A free-to-use AI system for conversations, insights, and task automation."
+  },
+  {
+    "ranking": 2,
+    "tools": "OpenAI",
+    "website": "https://openai.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "647.0M",
+    "desc": "AI research and deployment company focused on building safe and beneficial AGI."
+  },
+  {
+    "ranking": 3,
+    "tools": "Adobe",
+    "website": "https://adobe.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "307.7M",
+    "desc": "Adobe provides creative, marketing, and document management solutions."
+  },
+  {
+    "ranking": 4,
+    "tools": "Salesforce Platform",
+    "website": "https://force.com?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paypal,  paddle",
+    "monthlyVisits": "136.5M",
+    "desc": "A unified platform for data, AI, CRM, development, and security."
+  },
+  {
+    "ranking": 5,
+    "tools": "Notion",
+    "website": "https://affiliate.notion.so/ffsd1156ei0l",
+    "paymentPlatform": "Stripe,  paddle",
+    "monthlyVisits": "155.6M",
+    "desc": "All-in-one workspace for notes, docs, projects, and AI-powered productivity."
+  },
+  {
+    "ranking": 6,
+    "tools": "Perplexity AI",
+    "website": "https://www.perplexity.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paddle",
+    "monthlyVisits": "129.5M",
+    "desc": "An AI search engine using large language models for information discovery and answering questions."
+  },
+  {
+    "ranking": 7,
+    "tools": "Claude",
+    "website": "https://claude.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "113.3M",
+    "desc": "Claude is an AI assistant from Anthropic that helps with tasks via natural language."
+  },
+  {
+    "ranking": 8,
+    "tools": "Shop",
+    "website": "https://shop.app?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paypal",
+    "monthlyVisits": "141.5M",
+    "desc": "An app for shopping, earning rewards, tracking packages, and secure one-tap checkouts."
+  },
+  {
+    "ranking": 9,
+    "tools": "Salesforce CN",
+    "website": "https://site.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "71.7M",
+    "desc": "Cloud-based CRM solution for businesses in China, hosted on Alibaba Cloud."
+  },
+  {
+    "ranking": 10,
+    "tools": "remove.bg",
+    "website": "https://www.remove.bg?utm_source=toolify",
+    "paymentPlatform": "Paddle",
+    "monthlyVisits": "65.0M",
+    "desc": "AI-powered background remover for images in 5 seconds."
+  },
+  {
+    "ranking": 11,
+    "tools": "SPICYCHAT.AI",
+    "website": "https://spicychat.ai?ref=n2mwzdu",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "47.2M",
+    "desc": "Chatbot platform with AI characters, allowing users to chat and create bots."
+  },
+  {
+    "ranking": 12,
+    "tools": "Shutterstock",
+    "website": "https://shutterstock.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "59.4M",
+    "desc": "Shutterstock provides royalty-free stock images, videos, and music with AI-powered creative tools."
+  },
+  {
+    "ranking": 13,
+    "tools": "HubSpot",
+    "website": "https://hubspot.sjv.io/5g6zan",
+    "paymentPlatform": "Stripe,  paddle",
+    "monthlyVisits": "35.0M",
+    "desc": "Customer platform with marketing, sales, service, and CRM software."
+  },
+  {
+    "ranking": 14,
+    "tools": "CapCut",
+    "website": "https://capcut.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "42.9M",
+    "desc": "CapCut is an AI-driven all-in-one video editor and graphic design tool."
+  },
+  {
+    "ranking": 15,
+    "tools": "Grammarly",
+    "website": "https://www.grammarly.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "46.4M",
+    "desc": "AI writing assistant for grammar, style, and tone correction and improvement."
+  },
+  {
+    "ranking": 16,
+    "tools": "QuillBot",
+    "website": "https://try.quillbot.com/nf4bajahb5bl",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "44.8M",
+    "desc": "AI-powered writing tool for paraphrasing, grammar checking, and more to improve writing."
+  },
+  {
+    "ranking": 17,
+    "tools": "ElevenLabs",
+    "website": "https://elevenlabs.io?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "25.4M",
+    "desc": "AI audio platform offering text-to-speech, voice cloning, and dubbing services."
+  },
+  {
+    "ranking": 18,
+    "tools": "Miro",
+    "website": "https://miro.com/?red=toolifc2273c&utm_source=toolifc2273c&utm_medium=cpa&utm_affiliate_network=reditus",
+    "paymentPlatform": "Paddle",
+    "monthlyVisits": "27.2M",
+    "desc": "Online collaborative whiteboard platform for team collaboration and project management."
+  },
+  {
+    "ranking": 19,
+    "tools": "CrushOn.AI",
+    "website": "https://crushon.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "20.6M",
+    "desc": "Platform for unfiltered, unbounded emotional and NSFW AI character interactions."
+  },
+  {
+    "ranking": 20,
+    "tools": "Hugging Face",
+    "website": "https://huggingface.co?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "23.9M",
+    "desc": "AI community platform for open-source ML models, datasets, and applications."
+  },
+  {
+    "ranking": 21,
+    "tools": "Pixelcut",
+    "website": "https://pixelcut.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "17.6M",
+    "desc": "Free AI photo editor with tools for background removal, retouching, upscaling, and template-based design."
+  },
+  {
+    "ranking": 22,
+    "tools": "Civitai",
+    "website": "https://civitai.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "16.2M",
+    "desc": "Model-sharing hub for AI art generation, specializing in Stable Diffusion."
+  },
+  {
+    "ranking": 23,
+    "tools": "Prolific",
+    "website": "https://prolific.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "13.9M",
+    "desc": "A platform connecting researchers with verified participants for high-quality data collection."
+  },
+  {
+    "ranking": 24,
+    "tools": "Poe",
+    "website": "https://poe.com?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paddle",
+    "monthlyVisits": "15.6M",
+    "desc": "Poe is an AI chat platform powered by Quora, offering access to multiple AI models."
+  },
+  {
+    "ranking": 25,
+    "tools": "Beacons",
+    "website": "https://beacons.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paypal",
+    "monthlyVisits": "21.6M",
+    "desc": "All-in-one platform for content creators with link-in-bio, store, email marketing, and media kits."
+  },
+  {
+    "ranking": 26,
+    "tools": "Leonardo.Ai",
+    "website": "https://leonardo.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "14.3M",
+    "desc": "AI platform for generating production-quality creative assets with speed and style consistency."
+  },
+  {
+    "ranking": 27,
+    "tools": "VEED.IO",
+    "website": "https://veed.io?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paypal",
+    "monthlyVisits": "12.2M",
+    "desc": "Online video editor with AI tools for creating professional videos quickly and easily."
+  },
+  {
+    "ranking": 28,
+    "tools": "Photoroom",
+    "website": "https://www.photoroom.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "17.7M",
+    "desc": "All-in-one photo editing platform for professional designs."
+  },
+  {
+    "ranking": 29,
+    "tools": "DeepAI",
+    "website": "https://deepai.org?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "16.0M",
+    "desc": "DeepAI provides AI tools for image generation, editing, and character interaction."
+  },
+  {
+    "ranking": 30,
+    "tools": "Pixlr",
+    "website": "https://pixlr.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "13.0M",
+    "desc": "Cloud-based photo editing and design tools with AI-power for consumers and companies."
+  },
+  {
+    "ranking": 31,
+    "tools": "TurboScribe",
+    "website": "https://turboscribe.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "15.3M",
+    "desc": "AI transcription service converting audio and video to text in 98+ languages."
+  },
+  {
+    "ranking": 32,
+    "tools": "PixAI",
+    "website": "https://pixai.art?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "9.5M",
+    "desc": "AI art generator for creating anime-style art and sharing artworks."
+  },
+  {
+    "ranking": 33,
+    "tools": "Replit",
+    "website": "https://replit.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "11.1M",
+    "desc": "Online IDE for coding, collaboration, and deployment with AI assistance."
+  },
+  {
+    "ranking": 34,
+    "tools": "GPTZero",
+    "website": "https://gptzero.me/?via=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "8.6M",
+    "desc": "AI detector for identifying text generated by AI models like ChatGPT."
+  },
+  {
+    "ranking": 35,
+    "tools": "Monica",
+    "website": "https://monica.im?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "11.3M",
+    "desc": "Chrome extension AI assistant for chatting, copywriting, translation, and more."
+  },
+  {
+    "ranking": 36,
+    "tools": "LINER AI",
+    "website": "https://getliner.com?utm_source=toolify",
+    "paymentPlatform": "Stripe,  paypal",
+    "monthlyVisits": "10.1M",
+    "desc": "AI-powered search assistant and digital highlighter for reliable information discovery and annotation."
+  },
+  {
+    "ranking": 37,
+    "tools": "InVideo",
+    "website": "https://invideo.sjv.io/zN76Mm",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "8.7M",
+    "desc": "Online video editor with 5000+ templates, AI tools, and stock media."
+  },
+  {
+    "ranking": 38,
+    "tools": "Chub AI",
+    "website": "https://chub.ai?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "7.6M",
+    "desc": "GenAI platform with options to sign in, get started, search, and access legacy content."
+  },
+  {
+    "ranking": 39,
+    "tools": "ZeroGPT",
+    "website": "https://www.zerogpt.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "15.8M",
+    "desc": "ZeroGPT is an AI content detector and offers various writing tools."
+  },
+  {
+    "ranking": 40,
+    "tools": "Otter.ai",
+    "website": "https://otter.ai/referrals/X6YW9FRA",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "7.4M",
+    "desc": "AI meeting assistant for real-time transcription, summaries, and action items."
+  },
+  {
+    "ranking": 41,
+    "tools": "Runway",
+    "website": "https://runwayml.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "7.7M",
+    "desc": "Runway is an AI research company providing tools for media generation and creative workflows."
+  },
+  {
+    "ranking": 42,
+    "tools": "Wondershare",
+    "website": "https://wondershare.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "10.5M",
+    "desc": "Software solutions for creativity, productivity, and utility, including video editing, PDF tools, and data management."
+  },
+  {
+    "ranking": 43,
+    "tools": "Zapier",
+    "website": "https://zapier.com?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "8.0M",
+    "desc": "No-code automation platform connecting 8,000+ apps for workflow and AI agent creation."
+  },
+  {
+    "ranking": 44,
+    "tools": "Candy AI",
+    "website": "https://candy.ai?via=toolify50",
+    "paymentPlatform": "Stripe,  paypal",
+    "monthlyVisits": "10.1M",
+    "desc": "AI companion platform for chat, video, voice, and character creation."
+  },
+  {
+    "ranking": 45,
+    "tools": "Gauth",
+    "website": "https://gauthmath.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "8.0M",
+    "desc": "AI homework helper providing free online help with AI calculator, tutors, and experts."
+  },
+  {
+    "ranking": 46,
+    "tools": "OpenArt",
+    "website": "https://openart.ai/?via=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "6.1M",
+    "desc": "AI image generator with diverse models, styles, and tools for creative AI art."
+  },
+  {
+    "ranking": 47,
+    "tools": "OpenRouter",
+    "website": "https://openrouter.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "5.6M",
+    "desc": "Unified interface for LLMs, offering access to various models and prices with better uptime."
+  },
+  {
+    "ranking": 48,
+    "tools": "Joyland AI",
+    "website": "https://joyland.ai?utm_source=toolify",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "5.4M",
+    "desc": "Immersive AI chatbot for character-driven conversations and adventures."
+  },
+  {
+    "ranking": 49,
+    "tools": "Klaviyo",
+    "website": "https://www.klaviyo.com/partner/signup?utm_source=001Nu00000B49T3IAJ&utm_medium=partner",
+    "paymentPlatform": "Stripe",
+    "monthlyVisits": "5.0M",
+    "desc": "Intelligent marketing automation for personalized customer engagement."
+  },
+  {
+    "ranking": 50,
+    "tools": "123RF",
+    "website": "https://www.123rf.com?utm_source=toolify",
+    "paymentPlatform": "Paypal",
+    "monthlyVisits": "9.0M",
+    "desc": "A stock content provider with royalty-free images, videos, and AI tools."
+  }
+]

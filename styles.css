@@ -1,0 +1,135 @@
+/* 基础样式 */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* 导航栏样式 */
+header {
+    background-color: #0d0d0d;
+    padding: 1rem 2rem;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4d88ff;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 1.5rem;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #4d88ff;
+}
+
+/* 主要内容区域 */
+main {
+    padding: 2rem;
+}
+
+.ranking-section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.ranking-section h1 {
+    color: #4d88ff;
+    margin-bottom: 0.5rem;
+}
+
+.sponsored {
+    background-color: #2a2a2a;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+/* 表格样式 */
+.ranking-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1.5rem;
+}
+
+.ranking-table th, .ranking-table td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #333;
+}
+
+.ranking-table th {
+    background-color: #2a2a2a;
+    color: #4d88ff;
+}
+
+.ranking-table tr:hover {
+    background-color: #2a2a2a;
+}
+
+.ranking-table img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 4px;
+}
+
+/* 页脚样式 */
+footer {
+    background-color: #0d0d0d;
+    padding: 1rem;
+    text-align: center;
+    margin-top: 0rem;
+}
+
+<style>
+  .center-page {
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center;     /* 垂直居中 */
+    height: 100vh;           /* 页面高度 */
+  }
+</style>
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+    
+    nav ul {
+        margin-top: 1rem;
+        flex-wrap: wrap;
+    }
+    
+    nav ul li {
+        margin: 0.5rem;
+    }
+    
+    .ranking-table {
+        display: block;
+        overflow-x: auto;
+    }
+}
+

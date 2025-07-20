@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tools Ranking</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<script>
+const ITEMS_PER_PAGE = 20;
+let currentPage = 1;
+let data = [];
+
+function renderTable(page) {
+  const start = (page - 1) * ITEMS_PER_PAGE;
+  const end = start + ITEMS_PER_PAGE;
+  const pagedData = data.slice(start, end);
+
+  const tbody = document.querySelector(".ranking-table tbody");
+  tbody.innerHTML = "";
+
+  pagedData.forEach(item => {
+    const row = `
+      <tr>
+        <td>${item.ranking}</td>
+        <td>${item.tools}</td>
+        <td><a href="${item.website}" target="_blank">${new URL(item.website).hostname}</a></td>
+        <td>${item.paymentPlatform}</td>
+        <td>${item.monthlyVisits}</td>
+        <td>${item.desc}</td>
+      </tr>`;
+    tbody.innerHTML += row;
+  });
+
+  document.getElementById("page-indicator").innerText = `Page ${page} of ${Math.ceil(data.length / ITEMS_PER_PAGE)}`;
+}
+
+function changePage(delta) {
+  const totalPages = Math.ceil(data.length / ITEMS_PER_PAGE);
+  currentPage += delta;
+  if (currentPage < 1) currentPage = 1;
+  if (currentPage > totalPages) currentPage = totalPages;
+  renderTable(currentPage);
+}
+
+fetch("data.json")
+  .then(res => res.json())
+  .then(json => {
+    data = json;
+    renderTable(currentPage);
+  });
+</script>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">Toolyn</div>
+            <ul>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Category</a></li>
+                <li><a href="#">Ranking</a></li>
+                <li><a href="#">AI Models</a></li>
+                <li><a href="#">Research</a></li>
+                <li><a href="#">Submit & Advertise</a></li>
+                <li><a href="#">AI SEO Tool</a></li>
+                <li><a href="#">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="ranking-section">
+            <h1>Leading AI Platforms by Revenue</h1>
+            <p>Derived from AI website rankings, considering both payment platforms and actual monthly website traffic.</p>
+
+    <div class='center-page'>
+      <button onclick="changePage(-1)">Previous</button>
+      <span id="page-indicator">Page 1</span>
+      <button onclick="changePage(1)">Next</button>
+    </div>           
+ 
+            <table class="ranking-table">
+                <thead>
+                    <tr>
+                        <th>Ranking</th>
+                        <th>Tools</th>
+                        <th>Website</th>
+                        <th>Payment Platform</th>
+                        <th>Monthly visits</th>
+                        <th>Desc</th>
+                    </tr>
+                </thead>
+		<tbody>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+	<h5>Toolyn – Where the Top AI Tools Live</h5>
+        <p>Copyright ©2025 AI Tools Ranking(@toolyn). All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
